@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">HideMyFab</string>
+	<string name="Lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia scelerisque purus. Etiam ornare neque a lorem cursus, at imperdiet neque blandit. Maecenas accumsan sapien nisl, vitae tincidunt nisi egestas ac. Suspendisse potenti. Morbi viverra sollicitudin quam nec auctor. Morbi vitae faucibus erat. Suspendisse vestibulum vel ligula blandit hendrerit. Sed cursus justo et cursus ultrices. Suspendisse potenti. Quisque mollis molestie placerat. Curabitur volutpat dictum aliquet.</string>
+	<string name="fab_scroll_translation_autohide_behavior">HideMyFab.ScrollAwareFABBehavior</string>
+
+</resources>
